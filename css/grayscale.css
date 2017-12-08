@@ -44,7 +44,7 @@ a {
   color: #42DCA3; }
   a:focus, a:hover {
     text-decoration: none;
-    color: #1d9b6c; }
+    color: #3f87cb; }
 
 #mainNav {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -100,7 +100,7 @@ a {
   padding: 200px 0;
   text-align: center;
   color: white;
-  background: url("../img/intro-bg.jpg") no-repeat bottom center scroll;
+  background: url("../img/intro-bg.png") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
